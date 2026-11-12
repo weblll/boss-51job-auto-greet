@@ -1,6 +1,6 @@
 # Boss / 51job 自动投递助手
 
-Chrome + Tampermonkey 用户脚本，当前版本 **2.16.3**，由 **刘雷雷（weblll）**维护。
+Chrome + Tampermonkey 用户脚本，本项目基于[宋璟阳的原项目](https://github.com/songjingyang/boss-zhipin-auto-greet)修改，当前版本 **2.16.3**，由 **刘雷雷（weblll）**维护。
 
 [项目仓库](https://github.com/weblll/boss-51job-auto-deliver) · [问题反馈](https://github.com/weblll/boss-51job-auto-deliver/issues)
 
